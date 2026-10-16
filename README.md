@@ -1,12 +1,13 @@
 </div> <div align="center">
-  
-![](https://komarev.com/ghpvc/?username=thetellers&label=NUMBER&style=for-the-badge&color=red&abbreviated=true)    
+
+  ✦ 🇳ow sᴇ🇷v౹🇳ɢ: <br/>
+![](https://komarev.com/ghpvc/?username=thetellers&label=NUMBER&style=for-the-badge&color=grey&abbreviated=true)    
 
 <p align="left">
-${\textsf{\color{white} ◈ docks / rb area / hangouts }}$  
+${\textsf{\color{white} ⓘ docks / rb area / hangouts }}$  
 </p> 
 <p align="left">
-${\textsf{\color{red} ◈ c*h freely unless stated otherwise }}$
+${\textsf{\color{#B50000} ◈ c*h freely unless stated otherwise }}$
 </p>
 
 $$\color{black} ─ ── ─ ── ─ ── ─ ── ─ ── ─ ── ─ ✦ ─ ── ─ ── ─ ── ─ ── ─ ── ─ ── ─ $$
