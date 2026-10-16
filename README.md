@@ -18,8 +18,8 @@ ${\textsf{\color{#B50000} ◈ c*h freely unless stated otherwise }}$
     <br><br><br>
   <div align="center"> 
     <ins>crowd</ins>+<ins>cover</ins> discomfort <br>
-     <br>
-[sign straw](https://n2vein3.straw.page/)<br>
+    <br>
+    <ins> page is wip </ins>
     <br>
     <br>
     
