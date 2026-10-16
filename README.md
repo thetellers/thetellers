@@ -1,16 +1,15 @@
-## Hi there 👋
+</div> <div align="center">
+  
+![](https://komarev.com/ghpvc/?username=thetellers&label=NUMBER&style=for-the-badge&color=red&abbreviated=true)    
 
-<!--
-**thetellers/thetellers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+${\textsf{\color{white} ◈ docks / rb area / hangouts }}$  
+</p> 
+<p align="left">
+${\textsf{\color{red} ◈ c*h freely unless stated otherwise }}$
+</p>
 
-Here are some ideas to get you started:
+$$\color{black} ─ ── ─ ── ─ ── ─ ── ─ ── ─ ── ─ ✦ ─ ── ─ ── ─ ── ─ ── ─ ── ─ ── ─ $$
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
