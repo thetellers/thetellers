@@ -12,7 +12,7 @@ ${\textsf{\color{#B50000} ◈ c*h freely <ins>unless</ins> stated otherwise }}$
 
 <div align="center" max-width="200px">
     <br><br>
-    <img width="150" height="150" alt="Untitled21_20260428040015" src="https://github.com/user-attachments/assets/ccf64bcf-61c3-43e6-ac08-6d8d2a4c14c0" align="left">
+    <img width="150" height="150" alt="Untitled21_20260428040015" src="https://github.com/thetellers/thetellers/blob/main/paper%201.png" align="left">
     <img width="150" height="150" alt="Untitled21_20260428040015" src="https://github.com/user-attachments/assets/ccf64bcf-61c3-43e6-ac08-6d8d2a4c14c0" align="right">
     <br><br><br>
   <div align="center"> 
